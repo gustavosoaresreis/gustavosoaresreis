@@ -5,37 +5,28 @@ Junior Developer at Forza Jmalucelli in Curitiba - PR, seeking to improve my kno
 
 I have a degree in Systems Analysis and Development at Positivo University  [UP](https://www.up.edu.br/) <br/>
 
-## <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/25/undefined/external-message-contact-flatart-icons-lineal-color-flatarticons.png"/>  Contact me
-
-<p align="center">
-  <a href="https://instagram.com/gusoaresreis" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/instagram-new--v2.png"/></a>
-  <a href="www.linkedin.com/in/gustavo-soares-reis" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/linkedin.png"/></a>
-</p>
-
-## 🚀 Technologies
-
-<p align="center">
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODE"/></code> 
-</p>
-<p align="center">
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh//devicons/devicon/icons/vuejs/vuejs-original.svg" title = "VUE"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh//devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh//devicons/devicon/icons/bootstrap/bootstrap-original.svg" title = "BOOTSTRAP"/></code>
-    <!-- https://cdn.jsdelivr.net/gh//devicons/devicon/icons/caminho da linguagem
- bootstrap/bootstrap-original.svg -->
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
  
-## ⚡ GitHub Stats
+## 
 <p align="center">
   <a href="https://github.com/gustavosoaresreis">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavosoaresreis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavosoaresreis&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+## 
+<div> 
+  <a href="https://instagram.com/gusoaresreis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gustavosoaresreis1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-soares-reis-673397246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 <!--
 **gustavosoaresreis/gustavosoaresreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
