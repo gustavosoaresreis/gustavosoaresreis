@@ -5,7 +5,7 @@ Junior Developer at Forza Jmalucelli in Curitiba - PR, seeking to improve my kno
 
 I have a degree in Systems Analysis and Development at Universidade Positivo [UP](https://www.up.edu.br/) <br/>
 
-## <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/25/undefined/external-message-contact-flatart-icons-lineal-color-flatarticons.png"/> Contact me
+## <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/25/undefined/external-message-contact-flatart-icons-lineal-color-flatarticons.png"/>  Contact me
 
 <p align="center">
   <a href="https://instagram.com/gusoaresreis" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/instagram-new--v2.png"/></a>
@@ -20,12 +20,8 @@ I have a degree in Systems Analysis and Development at Universidade Positivo [UP
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODE"/></code> 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
 </p>
 <p align="center">
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title = "NPM"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title = "PHP"/></code>
     <code><img width="40px" src="https://cdn.jsdelivr.net/gh//devicons/devicon/icons/vuejs/vuejs-original.svg" title = "VUE"/></code>
     <code><img width="40px" src="https://cdn.jsdelivr.net/gh//devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
     <code><img width="40px" src="https://cdn.jsdelivr.net/gh//devicons/devicon/icons/bootstrap/bootstrap-original.svg" title = "BOOTSTRAP"/></code>
