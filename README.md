@@ -5,7 +5,8 @@ Junior Developer at Forza Jmalucelli in Curitiba - PR, seeking to improve my kno
 
 I have a degree in Systems Analysis and Development at Universidade Positivo [UP](https://www.up.edu.br/) <br/>
 
-## <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/25/undefined/external-message-contact-flatart-icons-lineal-color-flatarticons.png"/>  Contact me
+## <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/25/undefined/external-message-contact-flatart-icons-lineal-color-flatarticons.png"/>  
+Contact me
 
 <p align="center">
   <a href="https://instagram.com/gusoaresreis" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/instagram-new--v2.png"/></a>
