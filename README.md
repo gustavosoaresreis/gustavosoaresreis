@@ -3,13 +3,13 @@
 Junior Developer at Forza Jmalucelli in Curitiba - PR, seeking to improve my knowledge in front-end/back-end and JS.<br> Curiosities and Hobbies:<br>I play the guitar and I am a son of the living God
 </p>
 
-I have a degree in Systems Analysis and Development at Universidade Positivoo[UP](https://www.up.edu.br/) <br/>
+I have a degree in Systems Analysis and Development at Universidade Positivo [UP](https://www.up.edu.br/) <br/>
 
 ## <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/25/undefined/external-message-contact-flatart-icons-lineal-color-flatarticons.png"/> Contact me
 
 <p align="center">
-  <a href="https://instagram.com/gusoaresreis?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/instagram-new--v2.png"/></a>
-  <a href="www.linkedin.com/in/gustavo-soares-reis-673397246" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/linkedin.png"/></a>
+  <a href="https://instagram.com/gusoaresreis" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/instagram-new--v2.png"/></a>
+  <a href="www.linkedin.com/in/gustavo-soares-reis" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/linkedin.png"/></a>
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +35,7 @@ I have a degree in Systems Analysis and Development at Universidade Positivoo[UP
  
 ## ⚡ GitHub Stats
 <p align="center">
-  <a href="https://github.com/victorcals">
+  <a href="https://github.com/gusoaresreis">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorcals&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victorcals&layout=compact&langs_count=8&theme=algolia"/>
   </a>
