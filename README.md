@@ -1,15 +1,15 @@
-### <h1 align = "justify"> Prazer eu sou o Victor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+### <h1 align = "justify"> Hi, my name is Gustavo Soares <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align = "justify">
-Estudante de programação,apaixonado pelo front-end atualmente aprimorando minhas habilidades em JS. Curiosidades e Hobbies Sou atraído por dança e leitura e tudo relacionado a investigação
+Junior Developer at Forza Jmalucelli in Curitiba - PR, seeking to improve my knowledge in front-end/back-end and JS.<br> Curiosities and Hobbies:<br>I play the guitar and I am a son of the living God
 </p>
 
-Atualmente faço faculdade na Universidade Positivo[UP](https://www.up.edu.br/) <br/>
+I have a degree in Systems Analysis and Development at Universidade Positivoo[UP](https://www.up.edu.br/) <br/>
 
 ## <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/25/undefined/external-message-contact-flatart-icons-lineal-color-flatarticons.png"/> Contact me
 
 <p align="center">
-  <a href="https://www.instagram.com/victorcals_/" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/instagram-new--v2.png"/></a>
-  <a href="https://www.linkedin.com/in/victor-cals-98a865214/" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/linkedin.png"/></a>
+  <a href="https://instagram.com/gusoaresreis?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/instagram-new--v2.png"/></a>
+  <a href="www.linkedin.com/in/gustavo-soares-reis-673397246" target="blank"><img src="https://img.icons8.com/bubbles/150/undefined/linkedin.png"/></a>
 </p>
 
 ## 🚀 Tecnologias
