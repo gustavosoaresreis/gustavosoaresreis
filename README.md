@@ -1,6 +1,6 @@
 ### <h1 align = "justify"> Hi, my name is Gustavo Soares <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align = "justify">
-Junior Developer at Forza Jmalucelli in Curitiba - PR, seeking to improve my knowledge as a full stack developer and JS.<br> Curiosities and Hobbies:<br>I play the guitar and I am a son of the living God
+Junior Developer at Forza Jmalucelli in Curitiba - PR, seeking to improve my knowledge as a full stack developer and JS.<br> 
 </p>
 
 I have a degree in Systems Analysis and Development at Positivo University  [UP](https://www.up.edu.br/) <br/>
