@@ -3219,8 +3219,8 @@
     {
       "widgetId": "terminal-info",
       "position": {
-        "x": 296,
-        "y": 106
+        "x": 264,
+        "y": 122
       },
       "size": {
         "width": 504,
