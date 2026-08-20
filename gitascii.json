@@ -3234,40 +3234,6 @@
       "name": "Terminal-info Widget"
     },
     {
-      "widgetId": "languages",
-      "position": {
-        "x": 0,
-        "y": 402
-      },
-      "size": {
-        "width": 800,
-        "height": 140
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1787228124136_3",
-      "name": "Languages Widget"
-    },
-    {
-      "widgetId": "repositories",
-      "position": {
-        "x": 0,
-        "y": 558
-      },
-      "size": {
-        "width": 800,
-        "height": 300
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 5,
-      "instanceId": "widget_1787228124136_4",
-      "name": "Repositories Widget"
-    },
-    {
       "widgetId": "footer",
       "position": {
         "x": 0,
